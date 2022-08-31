@@ -1,4 +1,8 @@
-### Hi there 👋
+### Profile
+
+- 名前：小林美佳
+- 所属：愛媛大学 工学部 情報工学科
+- E-mail：m_kobayashi@ai.cs.ehime-u.ac.jp
 
 <!--
 **mika-koba/mika-koba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
